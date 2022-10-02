@@ -48,7 +48,7 @@ export default function DashboardApp() {
 						api
 							.post("/api/features", { customerId: selectedcustomer.id, features: selectedToggles.map(e => e.technicalName) })
 							.then(res => {
-								setFetures(res.data);
+								setFetures(res.data.features);
 							})
 							.catch(error => {
 								console.log("Error");

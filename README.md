@@ -24,6 +24,14 @@ By Kasun Chaturanga Gajamange / kchaturanga@gmail.com
 		- feturetoggle-ui With ReactJS on a node JS user 
 		- MySQL 8 container 
 
+## Simple Screens
+
+Feature Toggle CRUD 01 
+![alt Feature Toggle CRUD 01  ](screens/ft1.jpg)
+Feature Toggle CRUD 02 
+![alt Feature Toggle CRUD 02  ](screens/ft2.jpg)
+Feature Display and update 
+![alt Feature Display and update  ](screens/f1.jpg)
 
 ## Application Architecture 
 - Spring Boot 2.7.4  / Spring 5x  / ReactJS on UI
