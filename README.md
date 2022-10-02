@@ -1,6 +1,6 @@
 # SwisCom feature toggle
 ## Demo Application 
-SwisCom feature toggle is a jvm based RESTfull web service powered by Spring Boot  and ReactJS UI 
+SwisCom feature toggle is a jvm based RESTfull web service powered by Spring Boot  and  UI  powered by ReactJS
 By Kasun Chaturanga Gajamange / kchaturanga@gmail.com
 
 ---
@@ -21,7 +21,7 @@ By Kasun Chaturanga Gajamange / kchaturanga@gmail.com
 
 - docker-compose will bootup  Application with  
 		- java 17 based container for application created with .Dockerfile
-		- feturetoggle-ui With ReactJS on a node JS user 
+		- feature-toggle-ui With ReactJS on a node JS user 
 		- MySQL 8 container 
 
 ## Simple Screens
