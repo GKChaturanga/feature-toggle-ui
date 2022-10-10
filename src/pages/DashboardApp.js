@@ -198,7 +198,7 @@ export default function DashboardApp() {
 
 									}}
 									
-											   >De Attach </Button>
+											   >Detach </Button>
 											  </>:<>
 											  	<Button variant="contained" color="success"
 											  	
